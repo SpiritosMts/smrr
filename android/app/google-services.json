@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "133617459544",
+    "firebase_url": "https://smartcare-93645-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartcare-93645",
+    "storage_bucket": "smartcare-93645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133617459544:android:c4f082f1143f3e167cc52d",
+        "android_client_info": {
+          "package_name": "com.example.smartcrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133617459544-illi26s99ha8l5uo958drtbi529qo6r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jTTGNFwZ0NxMb14NE3XV4rICdq1eSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133617459544-ahriq2de0u90fs8n3msmrhkbqh60c2jc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133617459544-ka3028t6ipjbi4eojlgmecmcnnqaee7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartcare.smartCare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133617459544:android:21b730872c4940b67cc52d",
+        "android_client_info": {
+          "package_name": "com.flutterapp.smartcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133617459544-8o55gaddkke0ih0mhlrv8aq9pl1k7g5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterapp.smartcare",
+            "certificate_hash": "ab09ef9823f658a93151618be9c07e8508ce42f9"
+          }
+        },
+        {
+          "client_id": "133617459544-fb6s74t685vkbcdp4mg3j4c96qsfnihf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterapp.smartcare",
+            "certificate_hash": "7a06dccf402eb00a2f432fd4e39a01269ddcc598"
+          }
+        },
+        {
+          "client_id": "133617459544-p2lk8lt5abg08ruuhhn91vd1s75vqt8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterapp.smartcare",
+            "certificate_hash": "96ece7991c7799e31f47aea4c2d761ae1c996d4f"
+          }
+        },
+        {
+          "client_id": "133617459544-illi26s99ha8l5uo958drtbi529qo6r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jTTGNFwZ0NxMb14NE3XV4rICdq1eSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133617459544-ahriq2de0u90fs8n3msmrhkbqh60c2jc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133617459544-ka3028t6ipjbi4eojlgmecmcnnqaee7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartcare.smartCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
